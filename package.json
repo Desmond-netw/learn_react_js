@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "pnpm": "^9.15.4"
+  },
+  "devDependencies": {
+    "vitest": "^3.0.4"
   }
 }
